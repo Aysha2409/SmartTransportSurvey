@@ -19,7 +19,7 @@ The survey will be administered using Google Forms to allow easy access and effi
 ### Distribution Method:
 - Shared via university mailing lists and student WhatsApp/Telegram groups.
 - Posted on social media platforms such as Instagram and Facebook.
-- Shared in relevant community or tech-related forums to gather a range of perspectives.
+- Shared in relevant community or tech-related forums to collect a range of perspectives.
 
 The survey will be open for 1–2 weeks to allow enough time for participants to respond.
 

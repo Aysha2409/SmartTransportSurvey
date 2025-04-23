@@ -4,9 +4,9 @@
 
 The objective of this survey is to explore public awareness, opinions, and expectations regarding the use of Artificial Intelligence (AI) and Internet of Things (IoT) technologies in smart transportation systems. This aligns with our research goal of understanding how AI and IoT can be integrated into urban transportation to make cities more efficient, safe, and sustainable.
 
-Specifically, we aim to:
-- Assess how familiar people are with smart transportation systems.
-- Understand public perception of AI’s role in improving traffic flow, safety, and public transport.
+Specifically, our aim is to:
+- evaluate how familiar people are with smart transportation systems.
+- Understand public perspective of AI’s role in improving traffic flow, safety, and public transport.
 - Identify concerns such as privacy, security, and reliability of AI-powered systems.
 - Gather feedback on what features people would like to see in future smart cities.
 

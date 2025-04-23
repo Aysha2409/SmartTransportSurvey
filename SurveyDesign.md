@@ -8,7 +8,7 @@ Specifically, our aim is to:
 - evaluate how familiar people are with smart transportation systems.
 - Understand public perspective of AI’s role in improving traffic flow, safety, and public transport.
 - Identify concerns such as privacy, security, and reliability of AI-powered systems.
-- Gather feedback on what features people would like to see in future smart cities.
+- obtain responses on what features people would like to see in future smart cities.
 
 ---
 

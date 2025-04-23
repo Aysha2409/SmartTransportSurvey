@@ -109,5 +109,4 @@ We are committed to conducting our survey ethically and in accordance with acade
 - **Right to Withdraw**: Participants can choose not to complete the survey or exit at any time.
 - **No Harm Principle**: We will ensure that no question causes psychological distress or discomfort.
 
-A brief consent statement will be provided at the start of the survey.
 
